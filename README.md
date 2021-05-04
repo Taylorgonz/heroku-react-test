@@ -1,1 +1,0 @@
-# heroku-react-test
